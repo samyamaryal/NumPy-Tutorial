@@ -12,4 +12,3 @@ The topics I covered are:
 - Searching for elements in an array
 - Copying & Creating views for an array
 - Filtering an array
-- Joining multiple arrays
